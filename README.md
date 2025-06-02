@@ -6,10 +6,10 @@ A simple Java-based Student Management System that demonstrates basic CRUD opera
 ## 📁 Project Structure
 <br>
 com.tka.sms/
-├── Controller.java # Entry point (main method) for interacting with the system
-├── Student.java # Model class representing a Student entity
-├── StudentDao.java # Data Access Object for interacting with MySQL
-└── StudentService.java # Service layer for business logic
+├── Controller.java # Entry point (main method) for interacting with the system <br>
+├── Student.java # Model class representing a Student entity <br>
+├── StudentDao.java # Data Access Object for interacting with MySQL <br>
+└── StudentService.java # Service layer for business logic <br>
 <br>
 
 ## 🧰 Technologies Used
